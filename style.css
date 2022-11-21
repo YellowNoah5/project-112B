@@ -1,0 +1,32 @@
+body
+{
+  color: rgb(158, 22, 79);
+  background: #e1da49;
+  letter-spacing: 2;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #snapshot
+{
+  border: 2px solid rgb(90, 18, 18);
+  width: 350px;
+  height: 300px; 
+}
+#result_gesture_name ,#result_gesture_name2  
+{
+  color: black;
+}
+.gname
+{
+  font-size: 40px;
+}
+.updateemoji
+{
+  font-size:48px;
+}
+h3 {
+    font-size: 20px;
+    letter-spacing: 4;
+}
